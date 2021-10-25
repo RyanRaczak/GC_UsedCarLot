@@ -1,0 +1,14 @@
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\bin\Debug\netcoreapp3.1\GC_UsedCarLot.exe
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\bin\Debug\netcoreapp3.1\GC_UsedCarLot.deps.json
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\bin\Debug\netcoreapp3.1\GC_UsedCarLot.runtimeconfig.json
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\bin\Debug\netcoreapp3.1\GC_UsedCarLot.runtimeconfig.dev.json
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\bin\Debug\netcoreapp3.1\GC_UsedCarLot.dll
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\bin\Debug\netcoreapp3.1\GC_UsedCarLot.pdb
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.csproj.AssemblyReference.cache
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.AssemblyInfoInputs.cache
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.AssemblyInfo.cs
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.csproj.CoreCompileInputs.cache
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.dll
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.pdb
+C:\Users\RRaczak\source\repos\GC_UsedCarLot\GC_UsedCarLot\obj\Debug\netcoreapp3.1\GC_UsedCarLot.genruntimeconfig.cache
